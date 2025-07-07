@@ -38,18 +38,18 @@ The table below shows the alignment and highlights any areas where you’ll need
 
 ## Quick “Getting-Started” Links
 
-* SC-100 Skills Outline → <https://aka.ms/SC100-skills>  
-* Terraform CAF Enterprise-Scale → <https://github.com/Azure/terraform-azurerm-caf-enterprise-scale>  
-* Azure Policy tutorials → <https://learn.microsoft.com/azure/governance/policy/tutorials/create-and-manage>  
-* Gatekeeper on AKS → <https://learn.microsoft.com/azure/aks/governance-policy>  
-* Sentinel playbooks → <https://learn.microsoft.com/azure/sentinel/tutorial-use-playbooks>  
-* Syft & Cosign → <https://github.com/anchore/syft> | <https://github.com/sigstore/cosign>  
+* SC-100 Skills Outline → <https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-guides/sc-100#skills-measured-as-of-july-22-2025>
+* Terraform CAF Enterprise-Scale → <https://github.com/Azure/terraform-azurerm-caf-enterprise-scale>
+* Azure Policy tutorials → <https://learn.microsoft.com/azure/governance/policy/tutorials/create-and-manage>
+* Gatekeeper on AKS → <https://learn.microsoft.com/azure/aks/governance-policy>
+* Sentinel playbooks → <https://learn.microsoft.com/azure/sentinel/tutorial-use-playbooks>
+* Syft & Cosign → <https://github.com/anchore/syft> | <https://github.com/sigstore/cosign>
 * Azure OpenAI function calling → <https://learn.microsoft.com/azure/ai-services/openai/how-to/function-calling>
 
 ---
 
 ### How to Tackle Each Project Efficiently
 
-1. **Skim the Microsoft Learn module(s)** first; take screenshots or notes to reuse in your README files.  
-2. **Consult supplemental docs** for gaps (SBOM, GPT-4o, tfsec).  
-3. **Capture commands, scripts and diagrams** in your GitHub repo as you go—these artefacts prove both SC-100 prep and portfolio value.
+1. **Skim the Microsoft Learn module(s)** first; take screenshots or notes to reuse in your README files
+2. **Consult supplemental docs** for gaps (SBOM, GPT-4o, tfsec) 
+3. **Capture commands, scripts and diagrams** in your GitHub repo as you go—these artefacts prove both SC-100 prep and portfolio value
