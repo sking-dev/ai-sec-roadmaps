@@ -6,6 +6,7 @@ Curated road-maps, cheat-sheets, and learning notes on DevSecOps 🛡️ & AI-po
 
 - `docs/devsecops_ai_roadmap.md` – 5-month skill-building plan
 - `docs/sc100_finops_touchpoints.md` - Applied FinOps content across portfolio projects for SC-100
+- `docs/sc100_iac_bicep_adoption.md` - How and when to adopt Bicep in portfolio projects for SC-100
 - `docs/sc100_ms_learn_alignment.md` - Align Microsoft Learn resources with portfolio projects for SC-100
 - `docs/sc100_skills_uplift_roadmap.md` - Skills up-lift / portfolio projects for SC-100
 - `docs/uk_devsecops_jobboards.md` - UK job boards to prioritise
