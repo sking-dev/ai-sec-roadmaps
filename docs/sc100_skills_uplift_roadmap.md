@@ -91,8 +91,9 @@ sc100-portfolio/
 
 ## 📚 Core Study & How-To Links
 
-- SC-100 Skill Outline → <https://aka.ms/SC100-skills>  
-- Landing-Zone Terraform → <https://github.com/Azure/terraform-azurerm-caf-enterprise-scale>  
+- SC-100 Skills Outline → <https://learn.microsoft.com/en-gb/credentials/certifications/resources/study-guides/sc-100#skills-measured-as-of-july-22-2025>  
+- ~~Azure Landing Zone Terraform → <https://github.com/Azure/terraform-azurerm-caf-enterprise-scale>~~ → Deprecated for new deployments
+- Azure Landing Zone Terraform → <https://azure.github.io/Azure-Landing-Zones/terraform/>
 - Azure Policy Tutorial → <https://learn.microsoft.com/azure/governance/policy/tutorials/create-and-manage>  
 - Gatekeeper on AKS → <https://learn.microsoft.com/azure/aks/governance-policy>  
 - Sentinel Playbooks → <https://learn.microsoft.com/azure/sentinel/tutorial-use-playbooks>  
